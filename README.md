@@ -12,3 +12,7 @@ Run npm install youtube-search-api to install the dependency of the search api
 Run npm install Lodash to install Lodash
 
 Run npm start to spin up the lite server 
+
+Live Demo : http://detective-quota-38676.netlify.com/
+
+Deployed with Netlify.
